@@ -15,9 +15,13 @@ import cpw.mods.fml.common.eventhandler.Event.Result;
 import cpw.mods.fml.common.eventhandler.EventPriority;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 
+import net.minecraft.block.Block;
+import net.minecraft.init.Blocks;
+import net.minecraft.world.biome.BiomeGenBase;
 import net.minecraft.world.gen.structure.MapGenStructureIO;
 
 import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.event.terraingen.BiomeEvent;
 import net.minecraftforge.event.terraingen.InitMapGenEvent;
 import net.minecraftforge.event.terraingen.OreGenEvent;
 import net.minecraftforge.event.terraingen.WorldTypeEvent;
@@ -145,6 +149,38 @@ public class EventManagerRTG
                 //throw ex;
                 // failed attempt because the GenLayers don't end with GenLayerRiverMix
             }
+        }
+    }
+    
+    @SubscribeEvent(priority = EventPriority.HIGHEST)
+    public void onGetVillageBlockID(BiomeEvent.GetVillageBlockID event)
+    {
+        
+        BiomeGenBase biome = event.biome;
+        
+        if (biome == null) {
+            
+            //return;
+            
+            /**
+             * biome is ALWAYS null, but I don't know why - Pink
+             */
+        }
+
+        //if (event.biome.biomeID == BiomeGenBase.desert.biomeID || event.biome.biomeID == BiomeGenBase.desertHills.biomeID) {
+            
+            Block originalBlock = event.original;
+            
+            if (originalBlock == Blocks.cobblestone) {
+                
+                event.replacement = Blocks.sandstone;
+            }
+        //}
+        
+        // The event has to be cancelled in order to override the original block.
+        if (event.replacement != null) {
+            
+            event.setResult(Result.DENY);
         }
     }
 }
