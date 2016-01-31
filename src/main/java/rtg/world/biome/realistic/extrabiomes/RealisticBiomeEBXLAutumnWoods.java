@@ -3,9 +3,9 @@ package rtg.world.biome.realistic.extrabiomes;
 import java.util.Random;
 
 import rtg.api.biome.BiomeConfig;
+import rtg.api.lib.OpenSimplexNoise;
 import rtg.config.extrabiomes.ConfigEBXL;
 import rtg.util.CellNoise;
-import rtg.util.OpenSimplexNoise;
 import rtg.world.gen.feature.WorldGenLog;
 import rtg.world.gen.surface.extrabiomes.SurfaceEBXLAutumnWoods;
 import rtg.world.gen.terrain.extrabiomes.TerrainEBXLAutumnWoods;

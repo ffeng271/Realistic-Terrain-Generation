@@ -5,7 +5,7 @@
  * 3D function heavily optimized variant by DigitalShadow
  */
  
-package rtg.util;
+package rtg.api.lib;
 
 /**
  * @author Kurt Spencer
