@@ -5,6 +5,7 @@ import highlands.api.HighlandsBiomes;
 import java.util.Random;
 
 import rtg.api.biome.BiomeConfig;
+import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
 import rtg.config.highlands.ConfigHL;
 import rtg.world.gen.surface.highlands.SurfaceHLFlyingMountains;
@@ -18,7 +19,6 @@ import net.minecraft.world.gen.feature.WorldGenForest;
 import net.minecraft.world.gen.feature.WorldGenTrees;
 import net.minecraft.world.gen.feature.WorldGenerator;
 
-import rtg.util.CellNoise;
 import rtg.world.gen.feature.WorldGenFlowers;
 import rtg.world.gen.feature.WorldGenGrass;
 import rtg.world.gen.feature.WorldGenLog;

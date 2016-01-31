@@ -8,8 +8,8 @@ import java.util.Random;
 
 import org.apache.logging.log4j.Level;
 
+import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
-import rtg.util.CellNoise;
 import rtg.world.biome.realistic.RealisticBiomeBase;
 import cpw.mods.fml.common.FMLLog;
 

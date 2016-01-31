@@ -5,9 +5,9 @@ import static net.minecraftforge.event.terraingen.DecorateBiomeEvent.Decorate.Ev
 import java.util.Random;
 
 import rtg.api.biome.BiomeConfig;
+import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
 import rtg.config.biomesoplenty.ConfigBOP;
-import rtg.util.CellNoise;
 import rtg.world.gen.feature.WorldGenJungleCacti;
 import rtg.world.gen.feature.WorldGenLog;
 import rtg.world.gen.surface.biomesoplenty.SurfaceBOPLushDesert;

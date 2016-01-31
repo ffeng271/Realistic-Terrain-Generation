@@ -22,7 +22,7 @@
  * libnoiseforjava.  If not, see <http://www.gnu.org/licenses/>.
  * 
  */
-package rtg.util;
+package rtg.api.lib;
 
 import java.util.Random;
 
