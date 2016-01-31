@@ -1,4 +1,4 @@
-package rtg.world.biome;
+package rtg.api.biome;
 
 import net.minecraft.world.biome.BiomeGenBase;
 
