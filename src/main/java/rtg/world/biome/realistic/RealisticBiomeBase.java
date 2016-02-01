@@ -15,6 +15,7 @@ import java.util.Random;
 import org.apache.logging.log4j.Level;
 
 import rtg.api.biome.BiomeConfig;
+import rtg.api.biome.TerrainBase;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
 import rtg.config.rtg.ConfigRTG;
@@ -23,7 +24,6 @@ import rtg.world.biome.BiomeBase;
 import rtg.world.biome.WorldChunkManagerRTG;
 import rtg.world.gen.feature.WorldGenClay;
 import rtg.world.gen.surface.SurfaceBase;
-import rtg.world.gen.terrain.TerrainBase;
 import cpw.mods.fml.common.FMLLog;
 
 import net.minecraft.block.Block;

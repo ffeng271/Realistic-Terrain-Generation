@@ -2,9 +2,9 @@ package rtg.world.gen.terrain.vanilla;
 
 import org.apache.logging.log4j.Level;
 
+import rtg.api.biome.TerrainBase;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
-import rtg.world.gen.terrain.TerrainBase;
 import cpw.mods.fml.common.FMLLog;
 
 public class TerrainVanillaSavanna extends TerrainBase

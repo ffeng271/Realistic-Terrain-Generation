@@ -1,9 +1,9 @@
 package rtg.world.biome.realistic.biomesoplenty;
 
+import rtg.api.biome.TerrainBase;
 import rtg.api.biome.biomesoplenty.config.BiomeConfigBOP;
 import rtg.world.biome.realistic.RealisticBiomeBase;
 import rtg.world.gen.surface.SurfaceBase;
-import rtg.world.gen.terrain.TerrainBase;
 import biomesoplenty.api.content.BOPCBiomes;
 import cpw.mods.fml.common.Loader;
 

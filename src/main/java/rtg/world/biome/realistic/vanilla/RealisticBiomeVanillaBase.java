@@ -1,9 +1,9 @@
 package rtg.world.biome.realistic.vanilla;
 
+import rtg.api.biome.TerrainBase;
 import rtg.api.biome.vanilla.config.BiomeConfigVanilla;
 import rtg.world.biome.realistic.RealisticBiomeBase;
 import rtg.world.gen.surface.SurfaceBase;
-import rtg.world.gen.terrain.TerrainBase;
 
 import net.minecraft.world.biome.BiomeGenBase;
 
