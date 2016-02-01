@@ -1,9 +1,9 @@
 package rtg.world.biome.realistic.extrabiomes;
 
-import rtg.api.biome.TerrainBase;
 import rtg.api.biome.extrabiomes.config.BiomeConfigEBXL;
 import rtg.world.biome.realistic.RealisticBiomeBase;
 import rtg.world.gen.surface.SurfaceBase;
+import rtg.world.gen.terrain.TerrainBase;
 import cpw.mods.fml.common.Loader;
 import extrabiomes.api.BiomeManager;
 

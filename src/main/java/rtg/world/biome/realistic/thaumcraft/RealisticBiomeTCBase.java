@@ -1,9 +1,9 @@
 package rtg.world.biome.realistic.thaumcraft;
 
-import rtg.api.biome.TerrainBase;
 import rtg.api.biome.thaumcraft.config.BiomeConfigTC;
 import rtg.world.biome.realistic.RealisticBiomeBase;
 import rtg.world.gen.surface.SurfaceBase;
+import rtg.world.gen.terrain.TerrainBase;
 import cpw.mods.fml.common.Loader;
 
 import net.minecraft.world.biome.BiomeGenBase;

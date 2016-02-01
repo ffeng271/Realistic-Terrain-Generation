@@ -3,9 +3,9 @@ package rtg.world.gen.terrain.vanilla;
 import org.apache.logging.log4j.Level;
 
 import cpw.mods.fml.common.FMLLog;
-import rtg.api.biome.TerrainBase;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
+import rtg.world.gen.terrain.TerrainBase;
 
 public class TerrainVanillaDeepOcean extends TerrainBase
 {

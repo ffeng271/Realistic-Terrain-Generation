@@ -1,4 +1,4 @@
-package rtg.api.biome;
+package rtg.world.gen.terrain;
 
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;

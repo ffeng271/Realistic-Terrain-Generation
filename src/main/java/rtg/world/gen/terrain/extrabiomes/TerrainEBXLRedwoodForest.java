@@ -1,8 +1,8 @@
 package rtg.world.gen.terrain.extrabiomes;
 
-import rtg.api.biome.TerrainBase;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
+import rtg.world.gen.terrain.TerrainBase;
 
 public class TerrainEBXLRedwoodForest extends TerrainBase
 {
