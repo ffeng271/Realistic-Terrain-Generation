@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.chromaticraft;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.chromaticraft.ConfigCC;
 import rtg.world.gen.surface.chromaticraft.SurfaceCCRainbowForest;
 import rtg.world.gen.terrain.chromaticraft.TerrainCCRainbowForest;
 

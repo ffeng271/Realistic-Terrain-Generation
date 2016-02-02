@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.enhancedbiomes;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.enhancedbiomes.ConfigEB;
 import rtg.world.gen.surface.enhancedbiomes.SurfaceEBDesertArchipelago;
 import rtg.world.gen.terrain.enhancedbiomes.TerrainEBDesertArchipelago;
 import enhancedbiomes.api.EBAPI;

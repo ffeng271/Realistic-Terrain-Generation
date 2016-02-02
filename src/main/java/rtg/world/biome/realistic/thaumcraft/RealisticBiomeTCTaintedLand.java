@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.thaumcraft;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.thaumcraft.ConfigTC;
 import rtg.world.gen.surface.thaumcraft.SurfaceTCTaintedLand;
 import rtg.world.gen.terrain.thaumcraft.TerrainTCTaintedLand;
 

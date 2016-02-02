@@ -5,7 +5,6 @@ import java.util.Random;
 import rtg.api.biome.BiomeConfig;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
-import rtg.config.biomesoplenty.ConfigBOP;
 import rtg.world.gen.surface.SurfaceBase;
 import rtg.world.gen.surface.biomesoplenty.SurfaceBOPCrag;
 import rtg.world.gen.terrain.biomesoplenty.TerrainBOPCrag;

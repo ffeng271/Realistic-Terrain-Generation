@@ -5,8 +5,7 @@ import java.util.Random;
 import rtg.api.biome.BiomeConfig;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
-import rtg.config.atg.ConfigATG;
-import rtg.world.biome.WorldChunkManagerRTG;
+import rtg.world.biome.RTGBiomeProvider;
 import rtg.world.gen.feature.WorldGenGrass;
 import rtg.world.gen.feature.WorldGenVolcano;
 import rtg.world.gen.surface.atg.SurfaceATGVolcano;
@@ -16,7 +15,6 @@ import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.world.World;
 import net.minecraft.world.biome.BiomeGenBase;
-import rtg.world.biome.RTGBiomeProvider;
 
 public class RealisticBiomeATGVolcano extends RealisticBiomeATGBase
 {	

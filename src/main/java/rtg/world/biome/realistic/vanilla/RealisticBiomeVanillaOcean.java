@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.vanilla;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.vanilla.ConfigVanilla;
 import rtg.world.gen.surface.vanilla.SurfaceVanillaOcean;
 import rtg.world.gen.terrain.vanilla.TerrainVanillaOcean;
 

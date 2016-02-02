@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.extrabiomes;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.extrabiomes.ConfigEBXL;
 import rtg.world.gen.surface.extrabiomes.SurfaceEBXLGlacier;
 import rtg.world.gen.terrain.extrabiomes.TerrainEBXLGlacier;
 import extrabiomes.api.BiomeManager;

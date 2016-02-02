@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.atg;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.atg.ConfigATG;
 import rtg.world.gen.surface.atg.SurfaceATGWoodland;
 import rtg.world.gen.terrain.atg.TerrainATGWoodland;
 

@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.buildcraft;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.buildcraft.ConfigBC;
 import rtg.world.gen.surface.buildcraft.SurfaceBCDesertOilField;
 import rtg.world.gen.terrain.buildcraft.TerrainBCDesertOilField;
 

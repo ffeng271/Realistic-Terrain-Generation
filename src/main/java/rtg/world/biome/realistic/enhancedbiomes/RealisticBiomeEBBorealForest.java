@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.enhancedbiomes;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.enhancedbiomes.ConfigEB;
 import rtg.world.gen.surface.enhancedbiomes.SurfaceEBBorealForest;
 import rtg.world.gen.terrain.enhancedbiomes.TerrainEBBorealForest;
 import enhancedbiomes.EnhancedBiomesMod;

@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.extrabiomes;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.extrabiomes.ConfigEBXL;
 import rtg.world.gen.surface.extrabiomes.SurfaceEBXLGreenHills;
 import rtg.world.gen.terrain.extrabiomes.TerrainEBXLGreenHills;
 import extrabiomes.api.BiomeManager;

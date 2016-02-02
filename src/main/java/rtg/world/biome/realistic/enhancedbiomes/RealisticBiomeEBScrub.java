@@ -5,7 +5,6 @@ import java.util.Random;
 import rtg.api.biome.BiomeConfig;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
-import rtg.config.enhancedbiomes.ConfigEB;
 import rtg.world.gen.feature.WorldGenFlowers;
 import rtg.world.gen.feature.WorldGenGrass;
 import rtg.world.gen.feature.tree.WorldGenTreeShrub;

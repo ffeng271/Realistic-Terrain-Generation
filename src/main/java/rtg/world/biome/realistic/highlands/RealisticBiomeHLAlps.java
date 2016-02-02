@@ -4,16 +4,14 @@ import highlands.api.HighlandsBiomes;
 
 import java.util.Random;
 
-import net.minecraft.world.World;
-
 import rtg.api.biome.BiomeConfig;
 import rtg.api.lib.CellNoise;
 import rtg.api.lib.OpenSimplexNoise;
-import rtg.config.highlands.ConfigHL;
 import rtg.world.gen.surface.highlands.SurfaceHLAlps;
 import rtg.world.gen.terrain.highlands.TerrainHLAlps;
 
 import net.minecraft.block.Block;
+import net.minecraft.world.World;
 import net.minecraft.world.biome.BiomeGenBase;
 
 public class RealisticBiomeHLAlps extends RealisticBiomeHLBase {

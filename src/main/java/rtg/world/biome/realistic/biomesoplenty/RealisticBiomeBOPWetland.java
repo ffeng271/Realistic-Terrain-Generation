@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.biomesoplenty;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.biomesoplenty.ConfigBOP;
 import rtg.world.gen.surface.biomesoplenty.SurfaceBOPWetland;
 import rtg.world.gen.terrain.biomesoplenty.TerrainBOPWetland;
 import biomesoplenty.api.content.BOPCBiomes;

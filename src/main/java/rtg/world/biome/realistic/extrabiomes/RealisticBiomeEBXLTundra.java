@@ -1,7 +1,6 @@
 package rtg.world.biome.realistic.extrabiomes;
 
 import rtg.api.biome.BiomeConfig;
-import rtg.config.extrabiomes.ConfigEBXL;
 import rtg.world.gen.surface.extrabiomes.SurfaceEBXLTundra;
 import rtg.world.gen.terrain.extrabiomes.TerrainEBXLTundra;
 import extrabiomes.api.BiomeManager;
