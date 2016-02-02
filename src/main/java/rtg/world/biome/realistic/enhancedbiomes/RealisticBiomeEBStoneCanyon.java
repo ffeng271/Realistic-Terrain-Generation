@@ -59,7 +59,7 @@ public class RealisticBiomeEBStoneCanyon extends RealisticBiomeEBBase
 	{
 		super(
 			ebBiome, BiomeGenBase.river,
-			new TerrainEBStoneCanyon(false, 35f, 160f, 40f, 30f, 10),
+			new TerrainEBStoneCanyon(false, 35f, 160f, 40f, 30f, 60),
 			new SurfaceEBStoneCanyon(
                 ebTopBlock, //Block top 
                 ebTopByte, //byte topByte

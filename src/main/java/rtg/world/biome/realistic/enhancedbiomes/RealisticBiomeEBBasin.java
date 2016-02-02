@@ -49,7 +49,7 @@ public class RealisticBiomeEBBasin extends RealisticBiomeEBBase
 	{
 		super(
 			ebBiome, BiomeGenBase.river,
-			new TerrainEBBasin(false, -15f, 0f, 0f, 0f, 63f),
+			new TerrainEBBasin(false, -15f, 0f, 0f, 0f, 68f),
 			new SurfaceEBBasin(
                 ebTopBlock, //Block top 
                 ebTopByte, //byte topByte
