@@ -26,7 +26,7 @@ public class RealisticBiomeBOPMapleWoods extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPMapleWoods(63f, 80f, 30f),
+			new TerrainBOPMapleWoods(58f, 80f, 30f),
 			new SurfaceBOPMapleWoods(topBlock, fillerBlock)
 		);
 		

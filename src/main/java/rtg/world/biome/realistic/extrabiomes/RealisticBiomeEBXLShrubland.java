@@ -19,7 +19,7 @@ public class RealisticBiomeEBXLShrubland extends RealisticBiomeEBXLBase
 	{
 		super(
 			ebxlBiome, BiomeGenBase.river,
-			new TerrainEBXLShrubland(),
+			new TerrainEBXLShrubland(58f,80f,30f),
 			new SurfaceEBXLShrubland(topBlock, fillerBlock)
 		);
 		

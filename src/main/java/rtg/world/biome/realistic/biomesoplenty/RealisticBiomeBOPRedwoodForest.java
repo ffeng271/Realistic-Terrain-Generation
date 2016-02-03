@@ -28,7 +28,7 @@ public class RealisticBiomeBOPRedwoodForest extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPRedwoodForest(63f, 80f, 30f),
+			new TerrainBOPRedwoodForest(58f, 80f, 30f),
 			new SurfaceBOPRedwoodForest(topBlock, fillerBlock, false, null, 0.4f)
 		);
 		

@@ -27,7 +27,7 @@ public class RealisticBiomeBOPSpruceWoods extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPSpruceWoods(63f, 76f, 20f),
+			new TerrainBOPSpruceWoods(58f, 76f, 20f),
 			new SurfaceBOPSpruceWoods(
 				    topBlock, //Block top 
 	                (byte)0, //byte topByte

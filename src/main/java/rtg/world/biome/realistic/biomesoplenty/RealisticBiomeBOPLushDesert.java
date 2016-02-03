@@ -33,7 +33,7 @@ public class RealisticBiomeBOPLushDesert extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPLushDesert(63f, 69f, 40f),
+			new TerrainBOPLushDesert(65f, 71f, 40f),
 			new SurfaceBOPLushDesert(
                 topBlock, //Block top 
                 (byte)0, //byte topByte

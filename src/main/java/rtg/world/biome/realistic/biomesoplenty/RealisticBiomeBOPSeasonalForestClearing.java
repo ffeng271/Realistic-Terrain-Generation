@@ -27,7 +27,7 @@ public class RealisticBiomeBOPSeasonalForestClearing extends RealisticBiomeBOPBa
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPSeasonalForestClearing(63f, 66f, 24f),
+			new TerrainBOPSeasonalForestClearing(65f, 68f, 24f),
 			new SurfaceBOPSeasonalForestClearing(topBlock, fillerBlock)
 		);
 		

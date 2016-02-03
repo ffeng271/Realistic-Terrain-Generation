@@ -19,7 +19,7 @@ public class RealisticBiomeBOPPrairie extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPPrairie(63f, 80f, 25f),
+			new TerrainBOPPrairie(65f, 80f, 25f),
 			new SurfaceBOPPrairie(topBlock, fillerBlock)
 		);
 		

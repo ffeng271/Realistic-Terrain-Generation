@@ -28,7 +28,7 @@ public class RealisticBiomeBOPCherryBlossomGrove extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPCherryBlossomGrove(63f, 76f, 20f),
+			new TerrainBOPCherryBlossomGrove(58f, 76f, 20f),
 			new SurfaceBOPCherryBlossomGrove(
 			    topBlock, //Block top 
                 (byte)0, //byte topByte

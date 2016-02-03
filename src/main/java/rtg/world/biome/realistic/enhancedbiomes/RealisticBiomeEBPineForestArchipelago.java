@@ -10,6 +10,7 @@ import enhancedbiomes.blocks.EnhancedBiomesBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.world.biome.BiomeGenBase;
+import rtg.world.gen.terrain.enhancedbiomes.TerrainEBGrassyArchipelago;
 
 public class RealisticBiomeEBPineForestArchipelago extends RealisticBiomeEBBase
 {
@@ -50,7 +51,7 @@ public class RealisticBiomeEBPineForestArchipelago extends RealisticBiomeEBBase
 	{
 		super(
 			ebBiome, BiomeGenBase.river,
-			new TerrainEBPineForestArchipelago(200f, 100f, 0f),
+			new TerrainEBGrassyArchipelago(80f, 40f, 0f),
 			new SurfaceEBPineForestArchipelago(
                 ebTopBlock, //Block top 
                 ebTopByte, //byte topByte

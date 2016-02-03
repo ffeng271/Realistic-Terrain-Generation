@@ -19,7 +19,7 @@ public class RealisticBiomeBOPScrubland extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPScrubland(63f, 80f, 30f),
+			new TerrainBOPScrubland(58f, 80f, 30f),
 			new SurfaceBOPScrubland(topBlock, fillerBlock)
 		);
 		

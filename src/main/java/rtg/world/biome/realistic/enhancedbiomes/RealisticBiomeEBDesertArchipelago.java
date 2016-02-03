@@ -49,7 +49,7 @@ public class RealisticBiomeEBDesertArchipelago extends RealisticBiomeEBBase
 	{
 		super(
 			ebBiome, BiomeGenBase.river,
-			new TerrainEBDesertArchipelago(),
+			new TerrainEBDesertArchipelago(80f, 30f, 0f),
 			new SurfaceEBDesertArchipelago(
                 ebTopBlock, //Block top 
                 ebTopByte, //byte topByte

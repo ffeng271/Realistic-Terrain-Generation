@@ -19,7 +19,7 @@ public class RealisticBiomeBOPSteppe extends RealisticBiomeBOPBase
 	{
 		super(
 			bopBiome, BiomeGenBase.river,
-			new TerrainBOPSteppe(63f, 66f, 30f),
+			new TerrainBOPSteppe(65f, 68f, 30f),
 			new SurfaceBOPSteppe(topBlock, fillerBlock)
 		);
 		
